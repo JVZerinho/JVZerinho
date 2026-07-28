@@ -1,20 +1,65 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=João%20Victor&fontSize=50&fontColor=FFD700&fontAlignY=35&animation=fadeIn" alt="Header" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=180&section=header&text=João%20Victor&fontSize=48&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=Low%20Level%20Developer%20%7C%20É%20mais%20de%208000%20linhas%20de%20código!&descSize=14&descAlignY=52&descColor=FF7B00" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=FF7B00&background=00000000&center=true&vCenter=true&width=800&lines=Low+Level+Developer+%7C+C+%26+Systems;%22%C3%89+mais+de+8000+linhas+de+c%C3%B3digo!%22;Treinando+na+Sala+do+Tempo+do+C%C3%B3digo." alt="Typing SVG" />
+</div>
 
-  <br>
-
+<div align="center">
   <a href="https://discord.gg/darkzero3058">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/joaozin_p.s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:jvps.2014.jvps@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JVZerinho&label=Scouters+Ativados&color=FF7B00&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=JVZerinho&style=flat&color=FF7B00&label=Scouters+Ativados" />
+</div>
 
+<br>
+
+### 🔥 Sala do Tempo
+
+Estudante focado em **Low Level Programming**, **Linguagem C** e **Sistemas**.
+
+A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, memória e lógica antes de qualquer framework. Código que roda perto do hardware, como o Ki que flui direto do corpo.
+
+* 🔭 **Arc Atual**: Dominando **C** e mergulhando em **Sistemas Operacionais**.
+* 🌱 **Treino Ativo**: Expandindo o Ki para **Python**, **SQL** e **Shell Script**.
+* ⚡ **O Código**: *"O poder não vem da necessidade, vem da determinação e do código limpo."*
+* 🎓 **Saga**: Do `Hello World` ao baixo nível — cada commit é uma transformação.
+
+<br>
+
+<div align="center">
+  <h3><i>"É mais de 8000!!!"</i></h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZudXRmYTF0bWExZm5vYjZ5Ymd6dTFudXV2cWFxcWR2bmUxaTF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g96QrnCZhC8D6PP5GX/giphy.gif" width="600" alt="Vegeta It's Over 9000" style="border-radius: 8px;">
+</div>
+
+<br>
+
+---
+
+### 💊 Arsenal da Capsule Corp
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=c,python,bash&theme=dark" /><br>
+        <sub><b>Linguagens de Combate</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" /><br>
+        <sub><b>Bancos de Dados</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=git,linux,vscode,vim&theme=dark" /><br>
+        <sub><b>Ferramentas & Ambiente</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -22,28 +67,10 @@
 ### 📡 Scouter de Poder
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JVZerinho&show_icons=true&theme=transparent&title_color=FFD700&text_color=FFF&icon_color=FF7B00&bg_color=0D1117&border_color=FF7B00&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JVZerinho&background=0D1117&stroke=FF7B00&ring=FFD700&fire=FF7B00&currStreakNum=FFF&sideNums=FFD700&currStreakLabel=FF7B00&sideLabels=FFD700&dates=888&border=FF7B00" />
-</div>
-
----
-
-### 💊 Cápsulas da Capsule Corp
-
-<div align="center">
-
-**Linguagens** &nbsp;&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Ferramentas** &nbsp;&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVZerinho&theme=github_dark" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&theme=github_dark&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&theme=github_dark" />
 </div>
 
 ---
@@ -56,7 +83,7 @@
 |:---:|:---|:---|:---|
 | 🟠 | [**Projeto 1**](#) | Algoritmo de baixo nível | `C` `Linux` |
 | 🟠 | [**Projeto 2**](#) | Automação e scripts | `Python` |
-| 🟠 | [**Projeto 3**](#) | Sistema de banco de dados | `SQL` `PostgreSQL` |
+| 🟠 | [**Projeto 3**](#) | Sistema de banco de dados | `SQL` |
 | 🟡 | [**Projeto 4**](#) | Em desenvolvimento... | — |
 | 🟡 | [**Projeto 5**](#) | Em desenvolvimento... | — |
 | 🔵 | [**Projeto 6**](#) | Em breve... | — |
@@ -66,32 +93,28 @@
 
 ---
 
-### 🔄 Nível de Transformação
+### 🎲 Dados de Background
 
-<div align="center">
-
-```
-Base Form   ████████████████████  ✅   Lógica de Programação
-SSJ         ████████████████████  ✅   Linguagem C & Algoritmos
-SSJ 2       ████████████████████  ✅   Python & SQL
-SSJ 3       █████████████░░░░░░░  🔥   Projetos & Low Level  [65%]
-SSJ Blue    ░░░░░░░░░░░░░░░░░░░░  🔒   Próximo objetivo
-```
-
+<div align="left">
+  <ul>
+    <li><b>OS:</b> Windows 11 — mas o verdadeiro treino acontece no <code>WSL</code> e no terminal Linux.</li>
+    <li><b>Combustível:</b> Café e música — o verdadeiro Senzu Bean do desenvolvedor.</li>
+    <li><b>Side Quest:</b> Star Wars nerd, gamer, e sempre buscando o próximo desafio.</li>
+    <li><b>Filosofia:</b> Entender o <i>porquê</i> antes do <i>como</i> — debugar é a verdadeira arte marcial.</li>
+  </ul>
 </div>
 
----
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Forma-Super_Saiyajin-FFD700?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Código-Limpo-0d1117?style=for-the-badge&logo=github&logoColor=FF7B00" />
+  <img src="https://img.shields.io/badge/Low_Level-Warrior-FF7B00?style=for-the-badge&logoColor=white" />
+</div>
+
+<br>
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JVZerinho&bg_color=0D1117&color=FFD700&line=FF7B00&point=00A2FF&area_color=FF7B00&area=true&hide_border=true" width="95%" />
-
-  <br><br>
-
   <sub>🐉 <i>"Não importa o quão forte você se torne, nunca tente fazer tudo sozinho." — Goku</i></sub>
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=100&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%" />
