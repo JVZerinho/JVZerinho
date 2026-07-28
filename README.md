@@ -27,15 +27,15 @@ Estudante focado em **Low Level Programming**, **Linguagem C** e **Sistemas**.
 
 A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, memória e lógica antes de qualquer framework. Código que roda perto do hardware, como o Ki que flui direto do corpo.
 
-* 🔭 **Arc Atual**: Dominando **C** e mergulhando em **Sistemas Operacionais**.
-* 🌱 **Treino Ativo**: Expandindo o Ki para **Python**, **SQL** e **Shell Script**.
-* ⚡ **O Código**: *"O poder não vem da necessidade, vem da determinação e do código limpo."*
-* 🎓 **Saga**: Do `Hello World` ao baixo nível — cada commit é uma transformação.
+- 💥 **Arc Atual**: Dominando **C** e mergulhando em **Sistemas Operacionais**.
+- 🏋️ **Treino Ativo**: Expandindo o Ki para **Python**, **SQL** e **Shell Script**.
+- 🥊 **O Código**: _"O poder não vem da necessidade, vem da determinação e do código limpo."_
+- 📜 **Saga**: Do `Hello World` ao baixo nível — cada commit é uma transformação.
 
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e6/f5/ab/e6f5ab4de7e41bb8b29a37de6d0cec5d.gif" width="480" alt="Goku Super Saiyan" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5ZHl0ZjZ6OGJ1azU4ZnY5OWx3aWh2YjVlanVnYWs1ZXN6enNtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2GpJK6ljDJJnLDWUA/giphy.gif" width="480" alt="Goku Super Saiyan" />
 </div>
 
 <br>
@@ -68,10 +68,10 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
 ### 📡 Scouter de Poder
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVZerinho&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVZerinho&theme=2077" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&theme=github_dark&utcOffset=-3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&theme=2077&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&theme=2077" />
 </div>
 
 ---
@@ -80,26 +80,26 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
 
 <div align="center">
 
-| Esfera | Projeto | Descrição | Techs |
-|:---:|:---|:---|:---|
-| 🟠 | [**Projeto 1**](#) | Algoritmo de baixo nível | `C` `Linux` |
-| 🟠 | [**Projeto 2**](#) | Automação e scripts | `Python` |
-| 🟠 | [**Projeto 3**](#) | Sistema de banco de dados | `SQL` |
-| 🟡 | [**Projeto 4**](#) | Em desenvolvimento... | — |
-| 🟡 | [**Projeto 5**](#) | Em desenvolvimento... | — |
-| 🔵 | [**Projeto 6**](#) | Em breve... | — |
-| 🔵 | [**Projeto 7**](#) | Em breve... | — |
+| Esfera | Projeto            | Descrição                 | Techs       |
+| :----: | :----------------- | :------------------------ | :---------- |
+|   🟠   | [**Projeto 1**](#) | Algoritmo de baixo nível  | `C` `Linux` |
+|   🟠   | [**Projeto 2**](#) | Automação e scripts       | `Python`    |
+|   🟠   | [**Projeto 3**](#) | Sistema de banco de dados | `SQL`       |
+|   🟡   | [**Projeto 4**](#) | Em desenvolvimento...     | —           |
+|   🟡   | [**Projeto 5**](#) | Em desenvolvimento...     | —           |
+|   🔵   | [**Projeto 6**](#) | Em breve...               | —           |
+|   🔵   | [**Projeto 7**](#) | Em breve...               | —           |
 
 </div>
 
 ---
 
-### 🎲 Dados de Background
+### 🧬 Dados de Background
 
-* **OS:** Windows 11 — mas o verdadeiro treino acontece no `WSL` e no terminal Linux.
-* **Combustível:** Café e música — o verdadeiro Senzu Bean do desenvolvedor.
-* **Side Quest:** Star Wars nerd, gamer, e sempre buscando o próximo desafio.
-* **Filosofia:** Entender o *porquê* antes do *como* — debugar é a verdadeira arte marcial.
+- **OS:** Windows 11 — mas o verdadeiro treino acontece no `WSL` e no terminal Linux.
+- **Combustível:** Café e música — o verdadeiro Senzu Bean do desenvolvedor.
+- **Side Quest:** Star Wars nerd, gamer, e sempre buscando o próximo desafio.
+- **Filosofia:** Entender o _porquê_ antes do _como_ — debugar é a verdadeira arte marcial.
 
 <div align="center">
   <br>
