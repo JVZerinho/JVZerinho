@@ -37,7 +37,7 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
 <div align="center">
   <h3><i>"Ka-me-ha-me-DEPLOY! 🔥"</i></h3>
   <br><br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cnNqNTUyaTEwbWtvcTRya2lrd2lleDhoejkyajVyeTdidnkxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxnEiGnEp5uzr67cwE/giphy.gif" width="360" alt="Goku Kamehameha" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cnNqNTUyaTEwbWtvcTRya2lrd2lleDhoejkyajVyeTdidnkxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxnEiGnEp5uzr67cwE/giphy.gif" width="500" alt="Goku Kamehameha" />
 </div>
 
 <br>
