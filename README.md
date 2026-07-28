@@ -23,19 +23,21 @@
 
 ### 🔥 Sala do Tempo
 
-Estudante focado em **Low Level Programming**, **Linguagem C** e **Sistemas**.
+Estudante focado em **Engenharia de Software**.
 
 A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, memória e lógica antes de qualquer framework. Código que roda perto do hardware, como o Ki que flui direto do corpo.
 
-- 💥 **Arc Atual**: Dominando **C** e mergulhando em **Sistemas Operacionais**.
-- 🏋️ **Treino Ativo**: Expandindo o Ki para **Python**, **SQL** e **Shell Script**.
+- 💥 **Arc Atual**: Mergulhando em **Engenharia de Software** e **Programação Orientada a Objetos**.
+- 🏋️ **Treino Ativo**: Expandindo o Ki para **Python** e **SQL**.
 - 🥊 **O Código**: _"O poder não vem da necessidade, vem da determinação e do código limpo."_
 - 📜 **Saga**: Do `Hello World` ao baixo nível — cada commit é uma transformação.
 
 <br>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5MHpmdGRvN3dmZzl6ZWdkNmpzNHdkb2R0bXJsMThwb2FxMGJvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlM7J1gbWvjos/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" width="480" alt="Goku Super Saiyan" />
+  <h3><i>"Ka-me-ha-me-DEPLOY! 🔥"</i></h3>
+  <br><br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpieHc5cTczaGh0NWtwdGhoZG9tcTJhaTU1cm1ybGFubnFzZjI3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zx0Gzud3Wqzbq/giphy.gif" width="360" alt="Goku Kamehameha" />
 </div>
 
 <br>
@@ -74,21 +76,8 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&theme=2077" />
 </div>
 
----
 
-### 🧬 Dados de Background
 
-- **OS:** Windows 11 — mas o verdadeiro treino acontece no `WSL` e no terminal Linux.
-- **Combustível:** Café e música — o verdadeiro Senzu Bean do desenvolvedor.
-- **Side Quest:** Star Wars nerd, gamer, e sempre buscando o próximo desafio.
-- **Filosofia:** Entender o _porquê_ antes do _como_ — debugar é a verdadeira arte marcial.
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Forma-Super_Saiyajin-FFD700?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Código-Limpo-0d1117?style=for-the-badge&logo=github&logoColor=FF7B00" />
-  <img src="https://img.shields.io/badge/Low_Level-Warrior-FF7B00?style=for-the-badge&logoColor=white" />
-</div>
 
 ---
 
@@ -103,6 +92,7 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
   <p><b>— Goku</b></p>
 
   <br>
+  
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=120&section=footer" width="100%" />
 </div>
