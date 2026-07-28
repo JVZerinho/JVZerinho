@@ -35,7 +35,7 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
 <br>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo5ZHl0ZjZ6OGJ1azU4ZnY5OWx3aWh2YjVlanVnYWs1ZXN6enNtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2GpJK6ljDJJnLDWUA/giphy.gif" width="480" alt="Goku Super Saiyan" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5MHpmdGRvN3dmZzl6ZWdkNmpzNHdkb2R0bXJsMThwb2FxMGJvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlM7J1gbWvjos/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" width="480" alt="Goku Super Saiyan" />
 </div>
 
 <br>
@@ -72,24 +72,6 @@ A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, 
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&theme=2077&utcOffset=-3" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&theme=2077" />
-</div>
-
----
-
-### 🔮 As 7 Esferas do Dragão
-
-<div align="center">
-
-| Esfera | Projeto            | Descrição                 | Techs       |
-| :----: | :----------------- | :------------------------ | :---------- |
-|   🟠   | [**Projeto 1**](#) | Algoritmo de baixo nível  | `C` `Linux` |
-|   🟠   | [**Projeto 2**](#) | Automação e scripts       | `Python`    |
-|   🟠   | [**Projeto 3**](#) | Sistema de banco de dados | `SQL`       |
-|   🟡   | [**Projeto 4**](#) | Em desenvolvimento...     | —           |
-|   🟡   | [**Projeto 5**](#) | Em desenvolvimento...     | —           |
-|   🔵   | [**Projeto 6**](#) | Em breve...               | —           |
-|   🔵   | [**Projeto 7**](#) | Em breve...               | —           |
-
 </div>
 
 ---
