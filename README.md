@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=200&section=header&text=⚡%20João%20Victor%20⚡&fontSize=50&fontColor=FFD700&fontAlignY=35&animation=twinkling&desc=Low%20Level%20Developer&descSize=16&descAlignY=55&descColor=FF7B00" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=200&section=header&text=⚡%20João%20Victor%20⚡&fontSize=50&fontColor=FFD700&fontAlignY=35&animation=twinkling&desc=Software%20Engineer&descSize=16&descAlignY=55&descColor=FF7B00" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3500&pause=1500&color=FFD700&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+%C3%89+mais+de+8000+linhas+de+c%C3%B3digo!+%E2%9A%A1;%F0%9F%94%A5+Treinando+na+Sala+do+Tempo+do+C%C3%B3digo+%F0%9F%94%A5;%F0%9F%90%89+Cada+commit+%C3%A9+uma+transforma%C3%A7%C3%A3o+%F0%9F%90%89" alt="Typing SVG" />
 
