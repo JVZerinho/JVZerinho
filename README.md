@@ -1,98 +1,33 @@
-<div align="center">
+# João Victor Pereira Santos
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=200&section=header&text=⚡%20João%20Victor%20⚡&fontSize=50&fontColor=FFD700&fontAlignY=35&animation=twinkling&desc=Software%20Engineer&descSize=16&descAlignY=55&descColor=FF7B00" width="100%" />
+Tecnólogo em Análise e Desenvolvimento de Sistemas pela UDF e graduando em Engenharia de Software na Universidade de Brasília (UnB), com conclusão prevista em julho de 2030.  
+Desenvolvo projetos educacionais em Python e Pandas, com estudo de classificação de fraude usando scikit-learn, XGBoost e SHAP.  
+Busco estágio em Analytics e tenho disponibilidade para 6 horas diárias.
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3500&pause=1500&color=FFD700&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+%C3%89+mais+de+8000+linhas+de+c%C3%B3digo!+%E2%9A%A1;%F0%9F%94%A5+Treinando+na+Sala+do+Tempo+do+C%C3%B3digo+%F0%9F%94%A5;%F0%9F%90%89+Cada+commit+%C3%A9+uma+transforma%C3%A7%C3%A3o+%F0%9F%90%89" alt="Typing SVG" />
+[Portfólio](https://joaovictor-portfolio-five.vercel.app/) · [Estudo de fraude](https://joaovictor-portfolio-five.vercel.app/estudo-fraude.html) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-pereira-santos-ba1049435/) · [E-mail](mailto:jvps.2014.jvps@gmail.com)
 
-</div>
+## Projetos selecionados
 
-<div align="center">
-  <a href="https://discord.gg/darkzero3058">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/joaozin_p.s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:jvps.2014.jvps@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=JVZerinho&style=flat&color=FF7B00&label=Scouters+Ativados" />
-</div>
+| Projeto | Evidência disponível | Escopo atual |
+| --- | --- | --- |
+| [Detecção de fraude](https://github.com/JVZerinho/Deteccao_Anomalias_Transacoes_Python) | Comparação de regressão logística, Random Forest e XGBoost; métricas de classificação, exploração de limiares e SHAP | Estudo educacional. As métricas atuais precisam de revalidação após correção da separação dos dados e da seleção do limiar. |
+| [Aurélios](https://github.com/JVZerinho/dio-lab-bia-do-futuro) | Leitura de CSV/JSON, agregações de despesas com Pandas e integração a provedores de IA por HTTP | Assistente de terminal com dados fictícios; não representa estudo de risco de crédito. |
+| [Warehouse System](https://github.com/JVZerinho/Projeto-Final-APC-) | C, structs, matriz de ocupação, busca binária, ordenação e persistência em arquivo | Projeto acadêmico de fundamentos de programação. |
+| [Desafio DevOps](https://github.com/JVZerinho/desafio-devops) | Docker, Nginx, GitHub Actions e aplicação com Next.js e Django | Projeto complementar de infraestrutura; não demonstra BI nem monitoramento de modelos. |
 
-<br>
+## Ferramentas utilizadas nos projetos
 
-### 🔥 Sala do Tempo
+- **Dados e modelos:** Python, Pandas, NumPy, scikit-learn, XGBoost e SHAP.
+- **Visualização no código de análise:** Matplotlib e Seaborn.
+- **Fundamentos e entrega:** C, Git, Linux, Docker e GitHub Actions em projetos de estudo.
+- **Em desenvolvimento:** SQL e bancos relacionais. Ainda não apresento SQL analítico avançado ou BI como competências comprovadas pelos projetos.
 
-Estudante focado em **Engenharia de Software**.
+## Formação e disponibilidade
 
-A abordagem: entender a máquina antes de pedir pra ela obedecer — ponteiros, memória e lógica antes de qualquer framework. Código que roda perto do hardware, como o Ki que flui direto do corpo.
+- **Bacharelado em Engenharia de Software — Universidade de Brasília (UnB):** cursando; conclusão prevista em julho de 2030.
+- **Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas — UDF:** concluído em julho de 2026.
+- **Disponibilidade para estágio:** 6 horas diárias.
 
-- 💥 **Arc Atual**: Mergulhando em **Engenharia de Software** e **Programação Orientada a Objetos**.
-- 🏋️ **Treino Ativo**: Expandindo o Ki para **Python** e **SQL**.
-- 🥊 **O Código**: _"O poder não vem da necessidade, vem da determinação e do código limpo."_
-- 📜 **Saga**: Do `Hello World` ao baixo nível — cada commit é uma transformação.
+## Interesse em Analytics
 
-<br>
-
-<div align="center">
-  <h3><i>"Ka-me-ha-me-DEPLOY! 🔥"</i></h3>
-  <br><br>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1cnNqNTUyaTEwbWtvcTRya2lrd2lleDhoejkyajVyeTdidnkxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxnEiGnEp5uzr67cwE/giphy.gif" width="500" alt="Goku Kamehameha" />
-</div>
-
-<br>
-
----
-
-### 💊 Arsenal da Capsule Corp
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=c,python,bash&theme=dark" /><br>
-        <sub><b>⚔️ Linguagens de Combate</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" /><br>
-        <sub><b>🗄️ Bancos de Dados</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=git,linux,vscode,vim&theme=dark" /><br>
-        <sub><b>🛸 Ferramentas & Ambiente</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📡 Scouter de Poder
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVZerinho&theme=2077" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&theme=2077&utcOffset=-3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&theme=2077" />
-</div>
-
-
-
-
----
-
-<div align="center">
-  <br>
-
-  <h3>
-    🐉 <i>"Não importa o quão forte você se torne,<br>
-    nunca tente fazer tudo sozinho.<br>
-    Caso contrário, com certeza vai fracassar."</i>
-  </h3>
-  <p><b>— Goku</b></p>
-
-  <br>
-  
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,2,13&height=120&section=footer" width="100%" />
-</div>
+Quero aprofundar minha prática em exploração e tratamento de dados, avaliação de modelos e comunicação de resultados. Os projetos acima mostram meu ponto de partida e os limites de cada estudo; resultados experimentais não são apresentados como desempenho em produção.
