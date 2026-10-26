@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">João Victor — JVZerinho</title>
+  <desc id="desc">Banner inspirado em Dragon Ball, em azul e laranja, com uma esfera de quatro estrelas. Treinando um commit de cada vez.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#112b4a"/></linearGradient>
+    <radialGradient id="ball" cx="35%" cy="28%" r="75%"><stop stop-color="#ffe6a3"/><stop offset=".5" stop-color="#ffb12b"/><stop offset="1" stop-color="#ee7417"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#ff9e2c"/><stop offset="1" stop-color="#ff9e2c" stop-opacity="0"/></linearGradient>
+    <polygon id="star" points="0,-11 3.2,-3.8 10.5,-3.4 5.2,1.7 6.5,8.9 0,5.5 -6.5,8.9 -5.2,1.7 -10.5,-3.4 -3.2,-3.8" fill="#c83b25"/>
+  </defs>
+  <rect width="1000" height="250" rx="18" fill="url(#bg)"/>
+  <path d="M0 232H1000" stroke="#2675b8" stroke-width="2" opacity=".4"/>
+  <path d="M54 54H112" stroke="#ff9e2c" stroke-width="4" stroke-linecap="round"/>
+  <text x="54" y="104" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#f0f6fc">João Victor</text>
+  <text x="56" y="137" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="3" fill="#ffad42">JVZERINHO</text>
+  <text x="56" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#b9cce0">Treinando um commit de cada vez.</text>
+  <path d="M520 82H690M570 125H690M540 168H690" stroke="url(#line)" stroke-width="2" opacity=".45"/>
+  <circle cx="825" cy="122" r="103" fill="none" stroke="#398cdb" stroke-width="1" opacity=".2"/>
+  <circle cx="825" cy="122" r="91" fill="none" stroke="#ff9e2c" stroke-width="1" opacity=".35"/>
+  <circle cx="825" cy="122" r="73" fill="url(#ball)" stroke="#ffc365" stroke-width="2"/>
+  <ellipse cx="801" cy="83" rx="25" ry="9" transform="rotate(-30 801 83)" fill="#fff4cf" opacity=".5"/>
+  <use href="#star" x="806" y="107"/><use href="#star" x="843" y="107"/>
+  <use href="#star" x="806" y="143"/><use href="#star" x="843" y="143"/>
+</svg>
