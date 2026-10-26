@@ -1,5 +1,6 @@
 <div align="center">
   <img src="assets/dragon-ball-banner.svg" width="100%" alt="João Victor — JVZerinho. Treinando um commit de cada vez. Banner inspirado em Dragon Ball com a esfera de quatro estrelas." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1400&amp;color=F28C28&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Engenharia+de+Software+na+UnB;Projetos%2C+estudos+e+um+pouco+de+ki;Treinando+um+commit+de+cada+vez." width="100%" alt="Engenharia de Software na UnB. Projetos, estudos e um pouco de ki. Treinando um commit de cada vez." />
 </div>
 
 <div align="center">
@@ -30,6 +31,17 @@ Uso este espaço para reunir projetos, estudos e ideias que vou colocando em pr�
 **Python · SQL · C · Git · Linux · Docker**
 
 Também uso Pandas, NumPy, scikit-learn e Streamlit nos estudos com dados, além de GitHub Actions nos projetos de automação.
+
+## 🐉 Radar de evolução
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVZerinho&amp;theme=github_dark" width="100%" alt="Resumo de contribuições públicas de JVZerinho no GitHub" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JVZerinho&amp;theme=github_dark" width="48%" alt="Linguagens com mais commits nos repositórios analisados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JVZerinho&amp;theme=github_dark&amp;utcOffset=-3" width="48%" alt="Distribuição dos commits por horário, no fuso UTC-3" />
+  <br />
+  <sub>Cada commit conta no treinamento. ⚡</sub>
+</div>
 
 ## 📡 Onde me encontrar
 
